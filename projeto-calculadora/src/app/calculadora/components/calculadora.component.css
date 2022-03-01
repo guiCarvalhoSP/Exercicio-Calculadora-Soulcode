@@ -1,0 +1,21 @@
+button{
+    margin-top: 1vh;
+    width: 7vh;
+    height: 7vh;
+    box-shadow: 1px 1px 4px black;
+
+}
+
+#display{
+    margin-top:2vh
+}
+
+.last-buttons{
+    margin-bottom: 1vh;
+}
+
+#calculadora{
+    background-color: rgb(107, 107, 107);
+    border-radius: 1vh;
+    box-shadow: 5px 5px 8px;
+}
